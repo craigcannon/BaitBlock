@@ -1,7 +1,6 @@
 BaitBlock
 ============
-Crowdsourced clickbait blocking on Twitter.
-============
+
 HOW TO INSTALL THIS THING
 
 http://developer.chrome.com/extensions/getstarted.html
